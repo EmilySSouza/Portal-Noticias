@@ -38,7 +38,9 @@ a:hover {
     color: var(--brand-color-light);
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font: inherit;
 }
 
@@ -53,5 +55,5 @@ img {
 }
 
 main {
-    margin-top: 40px;
+    margin-block: 40px;
 }
